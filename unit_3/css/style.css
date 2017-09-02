@@ -12,21 +12,41 @@ section {
 }
 h1 {
     font-size: 2em;
+    font-family: 'Roboto Slab', sans-serif;
+    padding-bottom: 1em;
 }
 h2{
-	font-family: 'Jura';
+	font-family: 'Roboto Slab';
 }
 h3 {
-	font-family: 'Jura';
+	font-family: 'Roboto Slab';
 }
 #intro {
 	background-image: url("../images/dog.jpg");
 	background-size: cover;
-	padding: 5em 0 0;
+	padding: 5em 0.5em;
 	height: 90vh;
 	color: #fff;
 	font-size: 1.5em;
 }
 #intro div {
     width: 26em;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	width: 20em;
+}
+#find-a-friend {
+	padding: 3em 0.5em;
+}
+#list {
+	padding: 1em 0.5em;
+}
+ul {
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+}
+#contact{
+	padding: 2em 0.5em;
 }
